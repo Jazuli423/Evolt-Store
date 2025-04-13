@@ -16,7 +16,7 @@ if(!isset($_SESSION['user_name'])){
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VaeraStore</title>
+    <title>EvoltStore</title>
     <!--google font-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -44,7 +44,7 @@ if(!isset($_SESSION['user_name'])){
 <body>
     <nav class="navbar">
         <a href="../page.php" class="navbar-logo">
-            <h1>Vaera<span>Store</span>.</h1>
+            <h1>Evolt<span>Store</span>.</h1>
           </a>
         <div class="navbar-ekstra">
 
@@ -234,7 +234,7 @@ if(!isset($_SESSION['user_name'])){
     <footer>
         <div class="row">
             <div class="col">
-                <h1><span>Vaera</span> GameStore</h1>
+                <h1><span>Evolt</span> GameStore</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima quam accusantium 
                     similique reprehenderit deserunt nisi delectus, inventore consequatur aliquam ad!</p>
             </div>

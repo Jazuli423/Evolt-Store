@@ -15,7 +15,7 @@ if(!isset($_SESSION['user_name'])){
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VaeraStore</title>
+    <title>Evolt Store</title>
     <!--google font-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -43,7 +43,7 @@ if(!isset($_SESSION['user_name'])){
 <body>
     <nav class="navbar">
         <a href="../page.php" class="navbar-logo">
-            <h1>Vaera<span>Store</span>.</h1>
+            <h1>Evolt<span>Store</span>.</h1>
           </a>
         <div class="navbar-ekstra">
 
@@ -233,16 +233,16 @@ if(!isset($_SESSION['user_name'])){
     <footer>
         <div class="row">
             <div class="col">
-                <h1><span>Vaera</span> GameStore</h1>
+                <h1><span>Evolt</span> GameStore</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima quam accusantium 
                     similique reprehenderit deserunt nisi delectus, inventore consequatur aliquam ad!</p>
             </div>
             <div class="col">
                 <h3>Follow Us: <div class="underline"><span></span></div></h3>
                 <p><i class="fa-solid fa-angle-right"></i>
-                    <i class="fa-brands fa-instagram"></i> RaymeHakke</p>
+                    <i class="fa-brands fa-instagram"></i> Evolt Dark</p>
                 <p><i class="fa-solid fa-angle-right"></i>
-                    <i class="fa-brands fa-facebook"></i> HabibCerdas</p>
+                    <i class="fa-brands fa-facebook"></i> Jazuli Cerdas</p>
                 <p><i class="fa-solid fa-angle-right"></i>
                     <i class="fa-brands fa-x-twitter"></i> Xenonite</p>
                 <p><i class="fa-solid fa-angle-right"></i>
@@ -273,14 +273,14 @@ if(!isset($_SESSION['user_name'])){
                     <button type="submit"><i class="fa-solid fa-angle-right"></i>
                     </button>
                 </form>
-                <p class="email-id">hgt.pro96@gmail.com</p>
-                <h4>+62 8573047xxxx</h4>
+                <p class="email-id">github@gmail.com</p>
+                <h4>+62 8513637xxxx</h4>
             </div>
         </div>
         <hr>
         <div class="hr-bg">
-        <p class="copyright">copyright &copy; 2023 by: <span>Muhammad Habib</span> |
-        Designed by: @Xenon1te_
+        <p class="copyright">copyright &copy; 2025 by: <span>Ahmad Jazuli</span> |
+        Designed by: @Evolt Dark
         </p>
         </div>
     </footer>
